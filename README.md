@@ -39,3 +39,8 @@ To achieve this, you will have to make some assumptions. To help you, you can us
 2.	Python code
 
 3.	Presentation slides (summarize of your findings): Your oral presentation should not exceed 15-20 minutes.
+
+You may download all the excel files and python file to see if it works good. You may contact me for the presentation and the Report at my email-id: chandankumar.paris@gmail.com
+We can have a discussion regarding this.
+Thank you,
+Happy Coding !
